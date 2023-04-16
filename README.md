@@ -1,2 +1,2 @@
 # homebase
-personal web dev testbed
+web dev testbed
